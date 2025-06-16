@@ -1,0 +1,36 @@
+# MLA - Meme Laugh Analyzer Requirements
+# Core dependencies for computer vision and machine learning
+
+# Computer Vision and Face Detection
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Numerical computing and data processing
+numpy>=1.21.0
+
+# Data analysis and visualization
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Web scraping and HTTP requests
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+
+# Image processing
+pillow>=8.0.0
+
+# GUI framework (included with Python but listed for completeness)
+# tkinter - built into Python
+
+# Development dependencies (optional)
+pytest>=6.0.0
+pytest-cov>=2.0.0
+black>=21.0.0
+flake8>=3.8.0
+mypy>=0.900
+
+# Additional utilities
+tqdm>=4.60.0  # Progress bars for data processing
+python-dateutil>=2.8.0  # Enhanced date handling
